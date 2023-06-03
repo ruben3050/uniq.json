@@ -1,1 +1,27 @@
-
+[
+ 
+    {
+      "author": "Reuben",
+      "url": "https://raw.githubusercontent.com/ruben3050/uniq.json/main/test/20220507_183409.png",
+      "name": "Wave 4",
+      "collections": "Waves"
+    },
+    {
+      "author": "Reuben",
+      "url": "https://raw.githubusercontent.com/ruben3050/uniq.json/main/test/20220507_183409.png",
+      "name": "Wave 3",
+      "collections": "Waves"
+    },
+    {
+      "author": "Reuben",
+      "url": "https://raw.githubusercontent.com/ruben3050/uniq.json/main/test/20220507_183437.png",
+      "name": "Wave 2",
+      "collections": "Waves"
+    },
+    {
+      "author": "Reuben",
+      "url": "https://raw.githubusercontent.com/ruben3050/uniq.json/main/test/IMG_20220422_125231_274.png",
+      "name": "Wave 1",
+      "collections": "Waves"
+    }   
+]
